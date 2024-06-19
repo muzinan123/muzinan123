@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzinan123)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzinan123)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muzinan123)](https://github.com/ryo-ma/github-profile-trophy)
+
